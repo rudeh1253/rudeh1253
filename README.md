@@ -1,7 +1,8 @@
 <div align=center>
   
 ### Teaching programming and computer science to myself!
-I'm Park, from South Korea. I'm interested in mathematics, algorithm, computer system, artificial intelligence, full-stack development, and so on.<br>
+I'm Park, from South Korea.<br>
+I'm interested in mathematics, algorithm, computer system, artificial intelligence, full-stack development, and so on. 😊<br>
 I've been studying along with courses provided by MIT OCW, Udemy, Coursera, etc.<br>
 
 ### Tech stacks
