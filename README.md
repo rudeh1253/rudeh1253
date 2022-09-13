@@ -1,3 +1,4 @@
+<div align=center>
 ### Tech stacks<br>
 ##### PROGRAMMING LANGUAGES
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -25,7 +26,7 @@ MIT OCW
 [Tistory](https://nsd112526.tistory.com/)
 ##### MY RESULTS OF STUDYING
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rudeh1253/cs-study)
-
+</div>
 
 <!--
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
