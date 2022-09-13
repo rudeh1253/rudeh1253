@@ -24,7 +24,7 @@ MIT OCW
 
 ### SITE <br>
 ##### BLOG
-[Tistory](https://nsd112526.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://nsd112526.tistory.com/)
 ##### MY RESULTS OF STUDYING
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rudeh1253/cs-study)
 </div>
