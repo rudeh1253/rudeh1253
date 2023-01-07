@@ -14,17 +14,14 @@ I've been studying with courses provided by MIT OCW, Udemy, Coursera, etc.<br>
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Apache-Tomcat](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white)<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)<br>
-![Amazon-AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Google-Cloud](https://img.shields.io/badge/Google-Cloud-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongDB&logoColor=white)<br>
 
 ### COURSES
 MIT OCW
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
-
+ <!--
 ### SITE <br>
 ##### BLOG
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://nsd112526.tistory.com/)
@@ -32,7 +29,7 @@ MIT OCW
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/invite/b/m7VNUDNl/b986120d1a4d39a9d420dbb32bb92530/my-cs-curriculum)
 ##### MY RESULTS OF STUDYING
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rudeh1253/cs-study)
-</div>
+</div>-->
 
 <!--
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
