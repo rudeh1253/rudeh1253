@@ -1,9 +1,4 @@
 <div align=center>
-  
-### Teaching programming and computer science to myself!
-I'm Park, from South Korea.<br>
-I'm interested in mathematics, algorithm, computer system, artificial intelligence, full-stack development, and so on. 😊<br>
-I've been studying with courses provided by MIT OCW, Udemy, Coursera, etc.<br>
 
 ### Tech stacks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
