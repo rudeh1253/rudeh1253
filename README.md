@@ -1,38 +1,60 @@
-<div align=center>
+<div align=left>
 
-### Tech stacks
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)<br>
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Apache-Tomcat](https://img.shields.io/badge/Apache-Tomcat-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=white)<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+#### Desire for a back-end programmer
 
-### COURSES
-MIT OCW
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
- <!--
-### SITE <br>
-##### BLOG
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://nsd112526.tistory.com/)
-##### Trello
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)](https://trello.com/invite/b/m7VNUDNl/b986120d1a4d39a9d420dbb32bb92530/my-cs-curriculum)
+### Name
+- Korean: 박경도
+- English: Gyoungdo Park
 
-<!--
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+### Programming languages
+- JAVA
+- C
+- TypeScript / JavaScript
+- SQL
 
-**rudeh1253/rudeh1253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+## Team Project
+### [아이행봇해](https://github.com/gyueunnim/iHangbot-front)
+#### Description
+Mobile application for children which provides a chatbot based on GPT.
+#### Tech stack
+- React Native
 
-Here are some ideas to get you started:
+## Personal Project
+### [Web Mapia](https://github.com/rudeh1253/webmapia)
+#### Description
+A mapia game provided on a web.
+#### Tech stack
+- TypeScript
+- React
+- Redux
+- SockJS
+- Java (JDK 17)
+- Spring Boot
+- Spring WebSocket
+- AWS EC2
+- Nginx (for front-end server)
+- Apache Tomcat (for back-end server)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Web Crawler](https://github.com/rudeh1253/java-crawler-web)
+#### Description
+An extensible web crawler written in Java.
+
+### [Shopping list](https://github.com/kimshooting/shopping-list)
+
+#### Description
+A shopping list app developed with React Native and SQLite.
+
+### [CLI Tetris](https://github.com/rudeh1253/CLI-Tetris)
+#### Description
+A tetris game running on the terminal of Window OS.
+
+## Self-study
+#### [https://github.com/rudeh1253/cs-study](https://github.com/rudeh1253/cs-study)<br>
+This repo contains homeworks, codes, etc. from my study for computer science.
+
+## Main sources for study
+- [MIT OCW](https://ocw.mit.edu/)
+- [Udemy](https://www.udemy.com/)
+- [Coursera](https://www.coursera.org/)
+- [Inflearn](https://www.inflearn.com/)
