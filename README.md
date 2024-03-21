@@ -40,11 +40,6 @@ A mapia game provided on a web.
 #### Description
 An extensible web crawler written in Java.
 
-### [Shopping list](https://github.com/kimshooting/shopping-list)
-
-#### Description
-A shopping list app developed with React Native and SQLite.
-
 ### [CLI Tetris](https://github.com/rudeh1253/CLI-Tetris)
 #### Description
 A tetris game running on the terminal of Window OS.
