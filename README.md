@@ -8,7 +8,6 @@
 
 ### Programming languages
 - JAVA
-- C
 - TypeScript / JavaScript
 - SQL
 
