@@ -62,7 +62,13 @@ An extensible web crawler written in Java.
 A tetris game running on the terminal of Window OS.
 
 ## Self-study
-#### [https://github.com/rudeh1253/cs-study](https://github.com/rudeh1253/cs-study)<br>
+### Now Learning
+- Apache Kafka
+- Kubernetes
+- Spring WebFlux
+- Database System
+
+### [CS Study](https://github.com/rudeh1253/cs-study)<br>
 This repo contains homeworks, codes, etc. from my study for computer science.
 
 ## Main sources for study
