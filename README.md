@@ -2,6 +2,8 @@
 
 #### 백엔드 개발자가 되기 위해 노력 중
 
+#### [About Me](https://five-pendulum-ae2.notion.site/11176a96a9d7807c8cd6e19207d02322?pvs=25)
+
 ### Name
 - Korean: 박경도
 - English: Gyoungdo Park
@@ -9,9 +11,6 @@
 ### Programming languages
 - JAVA
 - SQL
-
-## 포트폴리오 페이지
-[https://rudeh1253.github.io/](https://rudeh1253.github.io/)
 
 ## Self-study
 ### Now Learning
