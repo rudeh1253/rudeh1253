@@ -17,9 +17,8 @@
 ## Self-study
 ### Now Learning
 - Apache Kafka
-- Kubernetes
-- Spring WebFlux
-- Database System
+- Computer Networking
+- Domain Driven Design
 
 ### [CS Study](https://github.com/rudeh1253/cs-study)<br>
 This repo contains homeworks, codes, etc. from my study for computer science.
